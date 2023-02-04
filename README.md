@@ -6,7 +6,6 @@ Output a random quote amongst 1595
 
 TODO:
 - Remove cringe/outdated quotes
-- Some quotes are malformed
 - Gender parity
 - More quotes
 - POSIX compliance
