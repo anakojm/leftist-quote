@@ -4,7 +4,7 @@ Outputs a random quote among 907, POSIX compliant.
 
 You need `gnu coreutils`
 
-![preview](https://gist.githubusercontent.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/f52af76fa700ef472aa5836f9ebdde81c7b61c5e/leftist-quote.png)
+![preview](https://gist.github.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/8b667e15dc71ea14444b8d8d5214732802ced5a8/leftist-quote.png)
 
 # TODO
 - Remove cringe/outdated quotes
