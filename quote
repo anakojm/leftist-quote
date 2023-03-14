@@ -1,6 +1,6 @@
 #!/bin/sh
 
-quotes='
+set -- -lh '
 \033[38;2;86;95;137m┃ History repeats itself, first as tragedy, second as farce.\033[0m\\n- Karl Marx\n
 \033[38;2;86;95;137m┃ Workers of the world unite; you have nothing to lose but your chains.\033[0m\\n- Karl Marx\n
 \033[38;2;86;95;137m┃ Social progress can be measured by the social position of the female sex.\033[0m\\n- Karl Marx\n
@@ -910,4 +910,4 @@ quotes='
 \033[38;2;86;95;137m┃ Comrades, there is no true social revolution without the liberation of women\033[0m\\n- Thomas Sankara\n
 '
 
-echo $(echo $quotes | sort -R | head -n 1)
+echo "$(echo "$@" | sort -R | head -n 1)"
