@@ -1,8 +1,8 @@
 # leftist-quote
 
-Outputs a random quote among 907
+Outputs a random quote among 907, POSIX compliant.
 
-You need `jq`
+You need `gnu coreutils`
 
 ![preview](https://gist.githubusercontent.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/8a82bf55e0ef03fc962153346b296a925e3158f8/leftist-quote.png)
 
@@ -10,9 +10,14 @@ You need `jq`
 - Remove cringe/outdated quotes
 - Gender parity
 - More quotes
-- POSIX compliance
+- rewrite in:
+  - C99
+  - rust
+  - assembly
 
 # Credits
+- `Axyria#0001` for the POSIX compliance
+
 - https://github.com/18kimn/leftist-quotes
 
 - https://github.com/victoria-riley-barnett/Communism/
