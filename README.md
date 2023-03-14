@@ -2,7 +2,7 @@
 
 Outputs a random quote among 907.
 
-You need `gnu coreutils`
+You need the gnu coreutils and a POSIX shell.
 
 ![preview](https://gist.github.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/8b667e15dc71ea14444b8d8d5214732802ced5a8/leftist-quote.png)
 
