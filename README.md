@@ -1,6 +1,6 @@
 # leftist-quote
 
-Outputs a random quote among 907, POSIX compliant.
+Outputs a random quote among 907.
 
 You need `gnu coreutils`
 
@@ -16,12 +16,10 @@ You need `gnu coreutils`
   - assembly
 
 # Credits
+
 - `Axyria#0001` for the POSIX compliance
-
 - https://github.com/18kimn/leftist-quotes
-
 - https://github.com/victoria-riley-barnett/Communism/
-
 - https://reddit.femboy.hu/r/Socialism_101/comments/uq6rxr/what_are_your_favourite_leftwing_quotes/
 
 # Workers of the world, unite!
