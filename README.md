@@ -16,10 +16,9 @@ You can
 - More quotes
 
 # Credits
+
 - https://github.com/18kimn/leftist-quotes
-
 - https://github.com/victoria-riley-barnett/Communism/
-
 - https://reddit.femboy.hu/r/Socialism_101/comments/uq6rxr/what_are_your_favourite_leftwing_quotes/
 
 # Workers of the world, unite!
