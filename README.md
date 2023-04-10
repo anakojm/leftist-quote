@@ -1,23 +1,21 @@
 # leftist-quote
 
-Outputs a random quote among 907, POSIX compliant.
+Fortune file containing 908 quotes from various leftists.
 
-You need `gnu coreutils`
+You need `fortune`.
 
-![preview](https://gist.github.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/8b667e15dc71ea14444b8d8d5214732802ced5a8/leftist-quote.png)
+You can
+- download [leftist-quotes] and [leftist-quotes.dat] and put them in your fortune directory.
+- compile (`strfile leftist-quotes`) the file and put it in your fortune directory alongside [leftist-quotes].
+
+![preview](https://gist.githubusercontent.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/c45ade5ea65449efc05058727f21352019302cf0/leftist-quote.png)
 
 # TODO
 - Remove cringe/outdated quotes
 - Gender parity
 - More quotes
-- rewrite in:
-  - C99
-  - rust
-  - assembly
 
 # Credits
-- `Axyria#0001` for the POSIX compliance
-
 - https://github.com/18kimn/leftist-quotes
 
 - https://github.com/victoria-riley-barnett/Communism/
@@ -25,3 +23,7 @@ You need `gnu coreutils`
 - https://reddit.femboy.hu/r/Socialism_101/comments/uq6rxr/what_are_your_favourite_leftwing_quotes/
 
 # Workers of the world, unite!
+
+
+[leftist-quotes]: https://github.com/anakojm/leftist-quote/releases/download/1.0/leftist-quotes
+[leftist-quotes.dat]: https://github.com/anakojm/leftist-quote/releases/download/1.0/leftist-quotes.dat
