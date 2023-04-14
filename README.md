@@ -1,6 +1,6 @@
 # leftist-quote
 
-Fortune file containing 908 quotes from various leftists.
+Fortune file containing 906 quotes from various leftists.
 
 You need `fortune`.
 
