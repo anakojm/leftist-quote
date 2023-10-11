@@ -12,7 +12,7 @@ You can
 
 ## Preview
 
-![preview](https://gist.githubusercontent.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/c45ade5ea65449efc05058727f21352019302cf0/leftist-quote.png)
+![preview](https://gist.githubusercontent.com/anakojm/f6ef6eba4160d95a59cfa3d500244051/raw/15802e80211569cdeaa5e981f48aca8851e0120d/leftist-quote.png)
 
 ## Usage
 
